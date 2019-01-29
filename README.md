@@ -1,0 +1,2 @@
+# myspringboot
+基于springboot项目,集成常用第三方整合的一个框架,包含通用mapper实现百分之八九十的sql操作,无需编写常用sql,Json数据返回统一封装,自动生成model类,使用redis+jwt实现token的无感刷新,常用工具类等
